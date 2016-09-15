@@ -1,0 +1,2 @@
+# style
+Style for documents.

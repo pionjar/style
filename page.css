@@ -4,7 +4,7 @@
 header {
 	padding: 10px 0 10px 0;
 }
-*:not(nav) > h1 {
+*:not(nav):not(header) > h1 {
 	font-size: 14pt;
 	margin: 20pt 0 12pt 0;
 }

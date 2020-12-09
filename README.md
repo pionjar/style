@@ -1,4 +1,4 @@
-# Pionjärerna Document Styles
+# Cogneco Document Styles
 
 ## Style Types
 
@@ -7,6 +7,8 @@
 ### `paper`
 
 ### `page`
+
+### `resume`
 
 ## Header
 

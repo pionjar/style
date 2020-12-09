@@ -1,8 +1,0 @@
-@import url("print.css");
-header {
-	margin: 0;
-}
-header:after {
-	content: none;
-	padding: 0;
-}

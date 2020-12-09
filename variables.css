@@ -2,7 +2,7 @@
 :root {
 	--logotype-front: url("logo/pionjar-v50c.svg");
 	--logotype-top: url("logo/pionjar-h15c.svg");
-	--font-default: 8pt "PT Serif", "Garamond", "Georgia", serif;
+	--font-default: 9pt "PT Serif", "Garamond", "Georgia", serif;
 	--font-caption: "PT Sans Caption", "Verdana", sans-serif;
-	--font-monospace: 8pt "PT Mono", "Lucida Console", Monaco, monospace;
+	--font-monospace: 9pt "PT Mono", "Lucida Console", Monaco, monospace;
 }

@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans:400,400italic,700|PT+Serif:400,400italic,700|PT+Sans+Caption&subset=latin,latin-ext);
 :root {
-	--logotype-front: url("logo/pionjar-v5c.svg");
-	--logotype-top: url("logo/pionjar-h1c.svg");
-	--font-default: 10pt "PT Serif", "Garamond", "Georgia", serif;
+	--logotype-front: url("logo/pionjar-v50c.svg");
+	--logotype-top: url("logo/pionjar-h15c.svg");
+	--font-default: 8pt "PT Serif", "Garamond", "Georgia", serif;
 	--font-caption: "PT Sans Caption", "Verdana", sans-serif;
-	--font-monospace: 10pt "PT Mono", "Lucida Console", Monaco, monospace;
+	--font-monospace: 8pt "PT Mono", "Lucida Console", Monaco, monospace;
 }
